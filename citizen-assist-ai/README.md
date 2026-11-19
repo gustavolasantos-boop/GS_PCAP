@@ -104,7 +104,36 @@ A organização reutiliza conceitos estudados no material de aula: dicionários 
 
 ## 9. Teste com usuários e indicadores
 
-O conjunto de teste registra **3 participantes representados apenas pelos códigos P1, P2 e P3**, com **12 atendimentos no total** (4 por participante). Os registros não incluem nomes nem dados pessoais. O histórico de demonstração está em `data/historico.json`; a exportação correspondente está em `data/atendimentos.csv`; as notas de facilidade estão em `data/avaliacoes.json`.
+O conjunto de teste registra **3 participantes representados apenas pelos códigos P1, P2 e P3**, com **12 atendimentos no total** (4 por participante). Os registros não incluem nomes nem dados pessoais. O histórico de demonstração está em `data/historico.json`; a exportação correspondente está em `data/atendimentos.csv`; as notas de facilidade estão em `data/avaliacoes.json`. 
+
+### Resultados dos atendimentos — `atendimentos.csv`
+
+| Data | Pergunta realizada | ID da orientação | Encontrou? | Ajudou? | Tentativas | Tempo (s) |
+|---|---|---:|---|---|---:|---:|
+| 19/11/2026 | Como faço o Cartão SUS? | 1 | Sim | Sim | 1 | 18,2 |
+| 19/11/2026 | Como vejo o número do CNS no celular? | 2 | Sim | Sim | 1 | 15,8 |
+| 19/11/2026 | Quais vacinas preciso conferir depois dos 60 anos? | 3 | Sim | Sim | 1 | 22,1 |
+| 19/11/2026 | A vacina da gripe é todo ano? | 4 | Sim | Sim | 2 | 33,4 |
+| 19/11/2026 | Qual é o reforço da COVID-19 para pessoa idosa? | 5 | Sim | Não | 1 | 26,0 |
+| 19/11/2026 | Onde vejo minha carteira de vacinação digital? | 2 | Sim | Sim | 1 | 19,5 |
+| 19/11/2026 | A vacina que tomei não aparece no aplicativo | 6 | Sim | Sim | 2 | 40,7 |
+| 19/11/2026 | Idoso tem ônibus gratuito? | 8 | Sim | Sim | 1 | 13,2 |
+| 19/11/2026 | Como consigo a carteira do idoso para viajar? | 10 | Sim | Não | 2 | 43,0 |
+| 19/11/2026 | Qual é o procedimento para renovar a CNH? | — | Não | Não | 2 | 56,3 |
+| 19/11/2026 | Quais documentos preciso para emitir a Carteira da Pessoa Idosa? | 10 | Sim | Sim | 1 | 28,9 |
+| 19/11/2026 | Tenho dúvida sobre gratuidade no ônibus municipal | 8 | Sim | Sim | 1 | 16,1 |
+
+
+### Análise dos resultados
+
+Dos 12 atendimentos registrados, o assistente encontrou uma orientação em 11 casos, alcançando uma taxa de respostas encontradas de 91,7%. Em nove atendimentos, a orientação foi considerada útil, correspondendo a 75,0% do total.
+
+O tempo médio para encontrar uma resposta foi de 25,2 segundos, considerando somente os 11 atendimentos em que uma orientação foi encontrada. A média foi de 1,33 tentativas por atendimento, e a facilidade de uso recebeu nota média de 4,33 de 5.
+
+A pergunta sobre a renovação da CNH não foi respondida porque o assunto está fora do escopo da base de conhecimento. Já as perguntas sobre o reforço da COVID-19 e a Carteira da Pessoa Idosa para viajar encontraram orientações, mas essas respostas não foram consideradas suficientes para resolver as dúvidas. Esses casos indicam oportunidades de melhoria na clareza das respostas e na orientação sobre os próximos passos.
+
+Como melhoria, podem ser adicionadas novas palavras-chave e explicações mais específicas, mantendo as informações vinculadas a fontes oficiais. O histórico em JSON e a exportação CSV permitem acompanhar os resultados e identificar quais dúvidas precisam de atenção.
+
 
 Resultados calculados a partir dos 12 atendimentos registrados:
 
