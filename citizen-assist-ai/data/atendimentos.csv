@@ -1,0 +1,13 @@
+data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos
+2026-11-19,pergunta,Como faço o Cartão SUS?,1,True,True,1,18.2
+2026-11-19,pergunta,Como vejo o número do CNS no celular?,2,True,True,1,15.8
+2026-11-19,pergunta,Quais vacinas preciso conferir depois dos 60 anos?,3,True,True,1,22.1
+2026-11-19,pergunta,A vacina da gripe é todo ano?,4,True,True,2,33.4
+2026-11-19,pergunta,Qual é o reforço da COVID-19 para pessoa idosa?,5,True,False,1,26.0
+2026-11-19,pergunta,Onde vejo minha carteira de vacinação digital?,2,True,True,1,19.5
+2026-11-19,pergunta,A vacina que tomei não aparece no aplicativo,6,True,True,2,40.7
+2026-11-19,pergunta,Idoso tem ônibus gratuito?,8,True,True,1,13.2
+2026-11-19,pergunta,Como consigo a carteira do idoso para viajar?,10,True,False,2,43.0
+2026-11-19,pergunta,Qual é o procedimento para renovar a CNH?,,False,False,2,56.3
+2026-11-19,pergunta,Quais documentos preciso para emitir a Carteira da Pessoa Idosa?,10,True,True,1,28.9
+2026-11-19,pergunta,Tenho dúvida sobre gratuidade no ônibus municipal,8,True,True,1,16.1
