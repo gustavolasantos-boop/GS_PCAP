@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "categoria": "Cartão SUS e saúde digital",
+    "titulo": "Solicitar um novo Cartão SUS (CNS)",
+    "palavras_chave": [
+      "cartao sus",
+      "cartao do sus",
+      "sus",
+      "novo cns",
+      "emitir cartao sus",
+      "cartao nacional de saude"
+    ],
+    "resposta": "Não é possível emitir um novo Cartão Nacional de Saúde (CNS) pelo Meu SUS Digital. A emissão de um novo cartão e alterações cadastrais são feitas presencialmente em um estabelecimento de saúde. A página oficial consultada não informa uma lista de documentos; confirme com a unidade antes de ir.",
+    "documentos": [
+      "A página oficial consultada não especifica os documentos necessários; confirme diretamente com a unidade de saúde."
+    ],
+    "onde": "Em um estabelecimento de saúde que faça o cadastro. Confirme com a UBS ou com a Secretaria Municipal de Saúde qual unidade atende sua região.",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/9-como-faco-o-cartao",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 2,
+    "categoria": "Cartão SUS e saúde digital",
+    "titulo": "Consultar o número do CNS e a carteira de vacinação digital",
+    "palavras_chave": [
+      "numero do cns",
+      "consultar cartao sus",
+      "meu sus digital",
+      "carteira de vacinacao digital",
+      "cartao sus pelo celular"
+    ],
+    "resposta": "O Meu SUS Digital pode ser acessado pelo aplicativo ou pela versão web usando uma conta Gov.br. A plataforma permite consultar o número do CNS, o histórico de vacinação e a carteira de vacinação digital, de acordo com os registros enviados pelos serviços de saúde. O aplicativo não emite um novo CNS.",
+    "documentos": [
+      "Conta Gov.br para entrar na plataforma."
+    ],
+    "onde": "Aplicativo Meu SUS Digital ou versão web: https://meususdigital.saude.gov.br/",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 3,
+    "categoria": "Vacinação",
+    "titulo": "Conferir quais vacinas são recomendadas para pessoas idosas",
+    "palavras_chave": [
+      "vacina idoso",
+      "vacinas para idosos",
+      "calendario vacinacao idoso",
+      "vacinas a partir dos 60 anos",
+      "caderneta da pessoa idosa"
+    ],
+    "resposta": "Pessoas com 60 anos ou mais têm um Calendário Nacional de Vacinação. O esquema depende do histórico de vacinação e de condições específicas. Procure a UBS mais próxima e leve a Caderneta da Pessoa Idosa e todos os cartões de vacinação que tiver para a equipe conferir as doses necessárias.",
+    "documentos": [
+      "Caderneta da Pessoa Idosa, se tiver.",
+      "Cartões ou comprovantes de vacinação disponíveis."
+    ],
+    "onde": "Unidade Básica de Saúde (UBS) mais próxima da residência.",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-pessoa-idosa/vacinacao-da-pessoa-idosa/vacinacao-da-pessoa-idosa/",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 4,
+    "categoria": "Vacinação",
+    "titulo": "Saber quando tomar a vacina contra a gripe (influenza)",
+    "palavras_chave": [
+      "vacina gripe",
+      "vacina da gripe",
+      "influenza idoso",
+      "influenza",
+      "gripe anual",
+      "vacina da gripe todo ano",
+      "todo ano gripe",
+      "campanha da gripe idoso"
+    ],
+    "resposta": "No Calendário Nacional de Vacinação de 2026, a vacina influenza para pessoas idosas aparece como uma dose anual com a vacina da temporada. Para saber quando a dose está disponível na sua cidade, confirme o calendário e a orientação da UBS ou da Secretaria Municipal de Saúde.",
+    "documentos": [
+      "Caderneta e cartões de vacinação disponíveis, para conferência do histórico."
+    ],
+    "onde": "Sala de vacinação da UBS; datas e estratégias locais devem ser confirmadas com a Secretaria Municipal de Saúde.",
+    "fonte": "https://www.gov.br/saude/pt-br/vacinacao/arquivos/calendario-nacional-de-vacinacao-idoso/view",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 5,
+    "categoria": "Vacinação",
+    "titulo": "Conferir a dose de vacina contra a COVID-19 para pessoa idosa",
+    "palavras_chave": [
+      "vacina covid idoso",
+      "covid 19 vacina",
+      "reforco covid",
+      "dose semestral covid",
+      "vacina coronavirus idoso"
+    ],
+    "resposta": "No Calendário Nacional de Vacinação de 2026, a dose de COVID-19 para pessoas idosas está indicada semestralmente. O histórico individual e eventuais condições de saúde podem alterar a orientação; confirme na UBS qual dose está indicada para a pessoa.",
+    "documentos": [
+      "Caderneta e cartões de vacinação disponíveis, para conferência do histórico."
+    ],
+    "onde": "Sala de vacinação da UBS e Secretaria Municipal de Saúde para conferir a estratégia local.",
+    "fonte": "https://www.gov.br/saude/pt-br/vacinacao/arquivos/calendario-nacional-de-vacinacao-idoso/view",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 6,
+    "categoria": "Vacinação",
+    "titulo": "Corrigir uma vacina que não aparece no Meu SUS Digital",
+    "palavras_chave": [
+      "vacina nao aparece",
+      "nao aparece no aplicativo",
+      "vacina que tomei nao aparece",
+      "corrigir vacina",
+      "erro carteira vacinacao",
+      "registro de vacina",
+      "vacina faltando aplicativo"
+    ],
+    "resposta": "O Meu SUS Digital mostra as informações que foram registradas e enviadas pelos serviços de saúde. Se uma vacina não aparecer ou estiver com dados divergentes, procure a unidade onde ela foi aplicada e peça para verificar ou corrigir o registro.",
+    "documentos": [
+      "Comprovante ou caderneta de vacinação, se estiver disponível."
+    ],
+    "onde": "Na unidade de saúde onde a vacina foi aplicada.",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 7,
+    "categoria": "Vacinação",
+    "titulo": "Descobrir o dia e o local da vacinação no município",
+    "palavras_chave": [
+      "dia de vacina",
+      "local vacina",
+      "agendamento vacina",
+      "horario vacina",
+      "vacina no meu municipio"
+    ],
+    "resposta": "As secretarias estaduais e municipais de saúde definem as estratégias e os cronogramas locais de vacinação. O Meu SUS Digital não gerencia o agendamento nem informa o cronograma local. Consulte a UBS ou a Secretaria de Saúde do seu município para confirmar dia, local e necessidade de agendamento.",
+    "documentos": [
+      "A página consultada não indica documentos gerais para consulta de calendário; confirme com a unidade local."
+    ],
+    "onde": "UBS mais próxima ou Secretaria Municipal de Saúde.",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 8,
+    "categoria": "Transporte gratuito",
+    "titulo": "Usar a gratuidade no transporte coletivo urbano a partir dos 65 anos",
+    "palavras_chave": [
+      "onibus gratuito idoso",
+      "idoso tem onibus gratuito",
+      "onibus gratuito",
+      "transporte gratuito",
+      "passe livre 65",
+      "gratuidade onibus municipal",
+      "gratuidade no onibus municipal",
+      "gratuidade no onibus",
+      "transporte urbano idoso"
+    ],
+    "resposta": "A partir dos 65 anos, a legislação federal assegura gratuidade no transporte coletivo público urbano e semiurbano. Para acessar o benefício, basta apresentar um documento pessoal que comprove a idade. Para pessoas de 60 a 65 anos, a gratuidade depende da legislação local. Confirme com a prefeitura ou operadora quais procedimentos são usados na sua cidade.",
+    "documentos": [
+      "Documento pessoal que comprove a idade."
+    ],
+    "onde": "No transporte coletivo urbano/semiurbano e, para confirmar procedimentos locais, na prefeitura ou operadora de transporte da cidade.",
+    "fonte": "https://www.gov.br/mdh/pt-br/centrais-de-conteudo/pessoa-idosa/estatuto-da-pessoa-idosa.pdf/",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 9,
+    "categoria": "Transporte gratuito",
+    "titulo": "Solicitar gratuidade ou desconto em viagem interestadual",
+    "palavras_chave": [
+      "passagem gratis idoso",
+      "viagem interestadual idoso",
+      "desconto passagem idoso",
+      "onibus para outro estado",
+      "duas vagas gratuitas idoso"
+    ],
+    "resposta": "No transporte interestadual, pessoas com 60 anos ou mais e renda individual de até dois salários mínimos têm direito a duas vagas gratuitas por veículo. Se essas vagas já estiverem ocupadas, é previsto desconto de pelo menos 50% na passagem, conforme as regras aplicáveis. Consulte a empresa de transporte antes da viagem e confirme a documentação aceita.",
+    "documentos": [
+      "Documento de identidade.",
+      "Comprovação de renda de até dois salários mínimos ou Carteira da Pessoa Idosa, conforme o caso."
+    ],
+    "onde": "Na empresa que opera a linha interestadual, antes da compra ou emissão da passagem.",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-pessoa-idosa/direitos/direitos/",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 10,
+    "categoria": "Transporte gratuito",
+    "titulo": "Emitir a Carteira da Pessoa Idosa para viagens interestaduais",
+    "palavras_chave": [
+      "carteira pessoa idosa",
+      "carteira do idoso",
+      "emitir carteira idoso",
+      "carteira idoso transporte",
+      "carteira para passagem gratuita"
+    ],
+    "resposta": "A Carteira da Pessoa Idosa é destinada a pessoas com 60 anos ou mais, renda individual de até dois salários mínimos e inscrição atualizada no Cadastro Único. A emissão pode ser feita no portal oficial com conta Gov.br. Se precisar de ajuda, procure o CRAS. Após o cadastro ou atualização do CadÚnico, a emissão poderá levar até 45 dias.",
+    "documentos": [
+      "Inscrição atualizada no Cadastro Único.",
+      "NIS (Número de Inscrição Social), conforme a página oficial do serviço.",
+      "Conta Gov.br para emissão on-line."
+    ],
+    "onde": "Portal oficial https://carteiraidoso.cidadania.gov.br/ ou CRAS da região de residência.",
+    "fonte": "https://www.gov.br/pt-br/servicos/adquirir-carteira-do-idoso",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 11,
+    "categoria": "Transporte gratuito",
+    "titulo": "Conseguir ajuda presencial para emitir a Carteira da Pessoa Idosa",
+    "palavras_chave": [
+      "ajuda carteira idoso",
+      "cras carteira pessoa idosa",
+      "nao consigo emitir carteira",
+      "emitir carteira sem internet",
+      "cadunico pessoa idosa"
+    ],
+    "resposta": "Quem não consegue emitir a Carteira da Pessoa Idosa pela internet pode procurar o CRAS ou o setor municipal de assistência social para receber orientação e ajuda. É importante verificar o horário de atendimento e se é necessário agendar. A inscrição ou atualização do Cadastro Único deve estar regularizada.",
+    "documentos": [
+      "Informações necessárias para localizar/atualizar o Cadastro Único; confirme com o CRAS o que levar.",
+      "NIS, se já possuir."
+    ],
+    "onde": "CRAS ou núcleo do Cadastro Único que atende a região da residência.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/suas/servicos-e-programas/carteira-da-pessoa-idosa",
+    "verificado_em": "2026-11-19"
+  }
+]
